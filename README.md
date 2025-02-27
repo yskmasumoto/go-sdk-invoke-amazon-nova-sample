@@ -17,7 +17,7 @@ This repository contains a sample project demonstrating how to use the AWS SDK f
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/go-sdk-invoke-amazon-nova-sample.git
+    git clone https://github.com/yskmasumoto/go-sdk-invoke-amazon-nova-sample.git
     ```
 2. Change to the project directory:
     ```sh
